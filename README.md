@@ -8,3 +8,7 @@ Hoppas nu att allt funkar som det ska, hör annars av dig så får jag kolla på
 
 ## Hur man spelar
 ladda ner ZIP-filen, extrahera den och kör THE_BACKROOMS.exe
+
+
+## Eventuellt problem i spelet
+Jag kom på nu i efterhand att distance på monstrets förmåga att höra spelaren kan vara lite väl hög, vilket gör att minsta lilla ljud kan innebära att monstret hittar spelaren bättre och snabbare än tänkt. Om detta hindrar eller försvårar spelupplevelsen så rekommenderar jag att hoppa över VHS-segmentet, då det är det som spawnar monstret. Men försök såklart först som spelet är tänkt att funka, detta är bara ifall att!
