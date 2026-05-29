@@ -12,3 +12,10 @@ ladda ner ZIP-filen, extrahera den och kör THE_BACKROOMS.exe
 
 ## Att tänka på
 Monstret i spelet kan vara lite buggig och inte alltid fungera exakt som den ska. Om detta hindrar eller försvårar spelupplevelsen så rekommenderar jag att hoppa över VHS-segmentet, då det är det som spawnar monstret. Men försök såklart först som spelet är tänkt att funka, detta är bara ifall att!
+
+## Keybindings att känna till
+WASD - Movement
+Ctrl - Crouch
+Shift - Sprint
+E - interact
+F - Toggle/Untoggle Nightvision
